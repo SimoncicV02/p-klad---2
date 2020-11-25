@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2908B927-3661-46FA-9CD4-E0766993EB3B}</ProjectGuid>
+    <ProjectGuid>{3BD23250-D134-4D05-B301-E8F05B4524B3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>příklad___1</RootNamespace>
-    <AssemblyName>příklad - 1</AssemblyName>
+    <RootNamespace>příklad___3</RootNamespace>
+    <AssemblyName>příklad - 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
