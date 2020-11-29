@@ -12,7 +12,7 @@ namespace příklad___1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            string pismena = " !?.,MNBVCXYLKJHGFDSAPOIUZTREWQ";
+            string pismena = " .,MNBVCXY!?LKJHGFDSAPOIUZTREWQ";
             int i = 0;
             foreach (Control ctrl in panel1.Controls)
             {
